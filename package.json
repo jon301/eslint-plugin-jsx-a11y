@@ -38,7 +38,7 @@
     "coveralls": "^3.0.1",
     "eslint": "^5.15.2",
     "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-plugin-flowtype": "^3.5.0",
+    "eslint-plugin-flowtype": "^3.11.0",
     "eslint-plugin-import": "^2.16.0",
     "estraverse": "^4.2.0",
     "expect": "^24.3.1",
